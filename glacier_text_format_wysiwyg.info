@@ -1,0 +1,13 @@
+name = Text format: WYSIWYG
+core = 7.x
+package = glacier
+version = 7.x-1.0
+dependencies[] = ckeditor
+dependencies[] = features
+dependencies[] = filter
+dependencies[] = glacier_system
+features[ckeditor_profile][] = Backend
+features[ckeditor_profile][] = Frontend
+features[features_api][] = api:2
+features[filter][] = wysiwyg_backend
+features[filter][] = wysiwyg_frontend
