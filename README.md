@@ -2,7 +2,7 @@
 Classic WYSIWYG text format based on [CKEditor](http://ckeditor.com/). I highly recommend using the [markdown text format feature](https://github.com/maoberlehnerdrupal/glacier_text_format_markdown) over this.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_text_format_wysiwyg
+Github: https://github.com/drupalglacier/glacier_text_format_wysiwyg
 
 ### Author
 Markus Oberlehner  
